@@ -1,4 +1,4 @@
-# 2nd Year Project
+# Qhack project
 # Event Management Systems
 
 <p>
